@@ -1,0 +1,16 @@
+font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+  .finished_text p::after{
+position: absolute;
+height: 10px;
+width: 1px;
+background: #fff;
+
+content: "";
+top: 0;
+right: 45px;
+}
+
+           
